@@ -41,3 +41,7 @@ src/
 ## Deploy
 
 The `dist` folder produced by `npm run build` is a static site. Upload that folder to any static web host, or connect the GitHub repository to a host such as Vercel, Netlify, Cloudflare Pages, or GitHub Pages.
+
+For this repository, GitHub Pages deploys automatically whenever `main` changes. The preview URL is:
+
+`https://jaronkbragg7337.github.io/the-defender-3d/`
